@@ -18,6 +18,7 @@ A sleek and interactive password generator built with **HTML**, **CSS**, and **J
 
 ![Password Generator](screenshots/password-generator-preview.png)
 
+
 > Make sure this file exists: `screenshots/password-generator-preview.png`
 
 ---
